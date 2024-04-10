@@ -4,6 +4,8 @@
 <dict>
 	<key>MinimumOSVersion</key>
 	<string>15.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>3.21.0</string>
 	<key>AvailableLibraries</key>
 	<array>
 		<dict>

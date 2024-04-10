@@ -18,5 +18,7 @@
 	<string>iphonesimulator11.2</string>
 	<key>MinimumOSVersion</key>
 	<string>15.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>3.21.0</string>
 </dict>
 </plist>
